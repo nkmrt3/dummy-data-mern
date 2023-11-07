@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Dummy-Data-Feed/static/css/main.db798329.css",
+    "main.js": "/Dummy-Data-Feed/static/js/main.2e9a6a1c.js",
+    "index.html": "/Dummy-Data-Feed/index.html",
+    "main.db798329.css.map": "/Dummy-Data-Feed/static/css/main.db798329.css.map",
+    "main.2e9a6a1c.js.map": "/Dummy-Data-Feed/static/js/main.2e9a6a1c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db798329.css",
+    "static/js/main.2e9a6a1c.js"
+  ]
+}
